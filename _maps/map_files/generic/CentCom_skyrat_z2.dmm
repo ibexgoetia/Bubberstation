@@ -4415,6 +4415,16 @@
 /obj/effect/turf_decal/stripes/asteroid/line,
 /turf/open/misc/beach/sand,
 /area/centcom/holding/cafe/station/commons/lounge)
+"dyj" = (
+/obj/machinery/computer{
+	icon_screen = "comm";
+	dir = 8;
+	name = "condo teleportation console";
+	desc = "Due to various fly related incident, management has disabled direct control of this console."
+	},
+/obj/effect/turf_decal/box,
+/turf/open/floor/iron/dark/small,
+/area/centcom/interlink)
 "dyB" = (
 /obj/effect/light_emitter/interlink,
 /obj/effect/turf_decal/siding/thinplating/dark/corner{
@@ -5233,6 +5243,12 @@
 "eqS" = (
 /obj/machinery/duct,
 /turf/open/floor/wood/tile,
+/area/centcom/interlink)
+"eru" = (
+/obj/structure/closet,
+/obj/effect/turf_decal/bot,
+/obj/effect/turf_decal/tile/brown/opposingcorners,
+/turf/open/floor/iron/dark,
 /area/centcom/interlink)
 "erA" = (
 /obj/effect/turf_decal/tile/green{
@@ -6160,6 +6176,15 @@
 	volume_rate = 200
 	},
 /turf/open/floor/plating/airless,
+/area/centcom/interlink)
+"frX" = (
+/obj/effect/turf_decal/arrows/red{
+	dir = 4
+	},
+/obj/effect/turf_decal/stripes{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/small,
 /area/centcom/interlink)
 "fsm" = (
 /obj/structure/rack/wooden,
@@ -11098,6 +11123,12 @@
 	},
 /turf/open/floor/iron/white,
 /area/centcom/interlink)
+"kzG" = (
+/obj/machinery/cafe_condo_teleporter,
+/obj/effect/turf_decal/delivery/red,
+/obj/machinery/light/directional/east,
+/turf/open/floor/iron/dark/small,
+/area/centcom/interlink)
 "kzS" = (
 /obj/structure/closet/l3closet/security,
 /turf/open/floor/iron/dark/textured_large,
@@ -14371,6 +14402,15 @@
 	},
 /turf/open/indestructible/plating,
 /area/centcom/holding/cafe/park)
+"nXJ" = (
+/obj/effect/turf_decal/arrows/blue{
+	dir = 4
+	},
+/obj/effect/turf_decal/stripes{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/small,
+/area/centcom/interlink)
 "nXK" = (
 /turf/open/misc/dirt/planet,
 /area/centcom/holding/cafe/ruin/ash_walkers)
@@ -14780,6 +14820,13 @@
 /obj/structure/chair/sofa/bench,
 /turf/open/floor/iron/dark,
 /area/centcom/interlink)
+"ouO" = (
+/obj/machinery/light/directional/west,
+/obj/structure/closet/crate/bin,
+/obj/effect/turf_decal/delivery,
+/obj/effect/turf_decal/tile/brown/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
 "ovr" = (
 /obj/structure/table/wood,
 /obj/item/flashlight/lamp,
@@ -14854,6 +14901,10 @@
 /obj/machinery/door/airlock/public/glass{
 	name = "Interlink Dormitories Wing"
 	},
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
+"oCS" = (
+/obj/effect/turf_decal/tile/brown/opposingcorners,
 /turf/open/floor/iron/dark,
 /area/centcom/interlink)
 "oDs" = (
@@ -15882,6 +15933,13 @@
 	dir = 8
 	},
 /turf/open/floor/iron/white,
+/area/centcom/interlink)
+"pHp" = (
+/obj/machinery/door/airlock/public/glass{
+	name = "Interlink Condo Teleporter"
+	},
+/obj/effect/turf_decal/tile/brown/opposingcorners,
+/turf/open/floor/iron/dark,
 /area/centcom/interlink)
 "pIr" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -19354,6 +19412,12 @@
 	},
 /turf/open/floor/iron/white,
 /area/centcom/interlink/dorm_rooms)
+"twi" = (
+/obj/machinery/cafe_condo_teleporter,
+/obj/effect/turf_decal/delivery/blue,
+/obj/machinery/light/directional/east,
+/turf/open/floor/iron/dark/small,
+/area/centcom/interlink)
 "twr" = (
 /obj/structure/table/reinforced/plastitaniumglass,
 /obj/item/multitool{
@@ -22236,6 +22300,15 @@
 	},
 /turf/open/floor/carpet/executive,
 /area/centcom/interlink)
+"wsx" = (
+/obj/effect/turf_decal/stripes{
+	dir = 8
+	},
+/obj/effect/turf_decal/caution/stand_clear{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/small,
+/area/centcom/interlink)
 "wsB" = (
 /obj/effect/turf_decal/tile/neutral/fourcorners,
 /obj/machinery/light/directional/south,
@@ -23042,6 +23115,11 @@
 /obj/effect/turf_decal/trimline/green/filled/arrow_cw,
 /turf/open/floor/iron/dark,
 /area/centcom/interlink)
+"xsr" = (
+/obj/structure/sign/poster/random/directional/north,
+/obj/effect/turf_decal/tile/brown/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
 "xsX" = (
 /obj/structure/table/wood,
 /obj/item/folder/white{
@@ -23169,6 +23247,11 @@
 /obj/item/binoculars,
 /turf/open/floor/wood,
 /area/centcom/holding/cafe/beach)
+"xBf" = (
+/obj/item/kirbyplants/random,
+/obj/effect/turf_decal/tile/brown/opposingcorners,
+/turf/open/floor/iron/dark,
+/area/centcom/interlink)
 "xBs" = (
 /obj/effect/turf_decal/tile/green,
 /obj/effect/turf_decal/tile/blue{
@@ -40003,10 +40086,10 @@ tvw
 aqG
 cmF
 aqG
-aqG
-aqG
-cmF
-aqG
+tvw
+eru
+ouO
+xBf
 tvw
 jRq
 aAR
@@ -40260,11 +40343,11 @@ fov
 aqG
 aqG
 aqG
-aqG
-aqG
-aqG
-aqG
-fov
+tvw
+xsr
+oCS
+oCS
+pHp
 qWd
 raz
 tvw
@@ -40517,10 +40600,10 @@ tvw
 aqG
 aqG
 aqG
-aqG
-aqG
-aqG
-aqG
+tvw
+nXJ
+wsx
+frX
 tvw
 qvC
 aAR
@@ -40774,10 +40857,10 @@ fov
 uHW
 aqG
 aqG
-aqG
-aqG
-aqG
-aqG
+tvw
+kzG
+dyj
+twi
 tvw
 jHh
 hRG
@@ -41028,12 +41111,12 @@ iem
 iem
 iem
 tvw
-aqG
-aqG
-aqG
-aqG
-aqG
-aqG
+tvw
+tvw
+tvw
+tvw
+tvw
+tvw
 tvw
 tvw
 hpl
@@ -41290,7 +41373,7 @@ tvw
 tvw
 aqG
 aqG
-bAO
+aqG
 tvw
 kgf
 ivR
